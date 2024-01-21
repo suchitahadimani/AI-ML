@@ -1,5 +1,4 @@
-# ML
-
-Made several machine learning models to learn machine learn (including kaggle challenges)
-  - KNN 
-  - 
+#AI
+SEARCH ALGORITHMS:
+1. BFS
+2. DFS
